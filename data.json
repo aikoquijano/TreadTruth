@@ -1,0 +1,47 @@
+[
+  {
+    "item": "T-shirt",
+    "details": {
+      "size": "M",
+      "water": 2700,
+      "carbon": 2.5,
+      "waste": 0.2
+    }
+  },
+  {
+    "item": "Jeans",
+    "details": {
+      "size": "L",
+      "water": 7500,
+      "carbon": 10,
+      "waste": 0.5
+    }
+  },
+  {
+    "item": "Hoodie",
+    "details": {
+      "size": "S",
+      "water": 5000,
+      "carbon": 6,
+      "waste": 0.4
+    }
+  },
+  {
+    "item": "T-shirt",
+    "details": {
+      "size": "S",
+      "water": null,
+      "carbon": 10.0,
+      "waste": null
+    }
+  },
+  {
+    "item": "Shorts",
+    "details": {
+      "size": "S",
+      "water": 3500.0,
+      "carbon": 5.0,
+      "waste": null
+    }
+  }
+]
